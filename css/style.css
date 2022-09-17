@@ -29,21 +29,21 @@ li a{
 
 .img {
   display: block;
-  height: 450px;
-  margin-left: 500px;
-  padding: 50px;
+  height: 35em;
+  margin-left: 10%;
+  padding: 0 20% 0 20%;
 }
 
 h2 {
-  margin: 0 0 0 20px;
-  padding: 10px;
+  margin: 0 0 0 5px;
+  padding: 5px;
   font-size: 50px;
   font-weight: lighter;
 }
 
 .box {
-  width: 550px;
-  padding: 100px;
+  width: 45%;
+  padding: 70px;
   margin-left: 20px;
   background: #191970;
 }
