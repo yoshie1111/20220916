@@ -2,6 +2,15 @@ header{
   height: 200px;
   font-size: 15px;
   display: flex;
-  justify-content: space-around;
+  align-items: center;
+  
 }
 
+h1{
+  margin-right: auto;
+}
+
+.nav{
+  list-style: none;
+  display: inline-box;
+}
